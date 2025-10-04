@@ -1,4 +1,4 @@
-# SQL
+# Learn SQL With Me
 Hi All,
 
 I have created two exciting projects: SQL Basic and SQL Project.
